@@ -2,6 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Faizan ishfaq</h1>
 <h3 align="center">A passionate fullstack developer</h3>
+- 🔭 I’m currently working on creating a responsive web application for a local community project.
+- 🌱 I’m currently learning advanced JavaScript concepts and exploring front-end frameworks.
+- 👯 I’m looking to collaborate on open-source projects related to environmental sustainability.
+- 🤔 I’m looking for help with optimizing database queries for improved application performance.
+- 💬 Ask me about my experience organizing tech meetups and events.
+- 📫 How to reach me: Feel free to connect with me on Twitter [@justsayesbaba] or drop me an email at [babafazi123@gmail.com].
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to watch movies and play games in my free time. My hobbies include painting and playing chess.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanishfaq&label=Profile%20views&color=0e75b6&style=flat" alt="faizanishfaq" /> </p>
 
