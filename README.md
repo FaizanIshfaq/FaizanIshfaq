@@ -5,13 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanishfaq&label=Profile%20views&color=0e75b6&style=flat" alt="faizanishfaq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizanishfaq" alt="faizanishfaq" /></a> </p>
-
-- 🌱 I’m currently learning **next**
-
-- 📝 I regularly write articles on [@babafazi123](@babafazi123)
-
-- 💬 Ask me about **java, react, c**
 
 - 📫 How to reach me **babafazi123@gmail.com**
 
@@ -30,6 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizanishfaq&show_icons=true&locale=en" alt="faizanishfaq" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizanishfaq" alt="faizanishfaq" /></a> </p>
 
 
 <!--
