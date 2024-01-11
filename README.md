@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Faizan ishfaq</h1>
 <h3 align="center">A passionate fullstack developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanishfaq&label=Profile%20views&color=0e75b6&style=flat" alt="faizanishfaq" /> </p>
+
 <p>- 🔭 I’m currently working on creating a responsive web application for a local community project.</p>
 <p>- 🌱 I’m currently learning advanced JavaScript concepts and exploring front-end frameworks.</p>
 <p>- 👯 I’m looking to collaborate on open-source projects related to environmental sustainability.</p>
@@ -13,7 +15,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanishfaq&label=Profile%20views&color=0e75b6&style=flat" alt="faizanishfaq" /> </p>
 
 
 - 📫 How to reach me **babafazi123@gmail.com**
