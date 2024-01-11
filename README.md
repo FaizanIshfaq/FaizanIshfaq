@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌐 Socials:
+Facebook Instagram LinkedIn Medium Pinterest Reddit X
+
+💻 Tech Stack:
+C C++ C# GraphQL Java JavaScript Python R AWS Angular Angular.js Chart.js Bootstrap Flutter jQuery Django NodeJS Nodemon React Native React NPM React Router React Query React Hook Form Redux Apache Flink Jenkins Nginx AmazonDynamoDB Firebase MicrosoftSQLServer MongoDB MySQL Postgres Figma Canva Adobe Matplotlib NumPy Plotly PyTorch scikit-learn TensorFlow mlflow Pandas Keras Scipy PODMAN Docker Terraform SPLUNK PUPPET Kubernetes
