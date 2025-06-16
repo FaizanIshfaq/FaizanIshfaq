@@ -17,7 +17,7 @@
 
 
 
-- 📫 How to reach me **babafazi123@gmail.com**
+- 📫 How to reach me **faizanishfaq.official@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/justsayesbaba)
